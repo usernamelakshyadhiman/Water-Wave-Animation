@@ -20,7 +20,7 @@ body .content h2{
     position: absolute;
     transform: translate(-50%, -50%);
     /* color: white; */
-    font-size: 12rem;
+    font-size: 16rem;
     font-weight: 300;
 }
 body .content h2:nth-child(1){
